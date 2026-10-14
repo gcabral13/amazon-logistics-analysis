@@ -4,7 +4,7 @@
 Amazon's logistics sector experienced a critical decline 
 in on-time delivery performance (OTIF: 61.9% vs 97% target).
 
-##O bjective
+## Objective
 Identify root causes and propose data-driven solutions.
 
 ## Tools
