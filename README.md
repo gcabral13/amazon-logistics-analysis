@@ -24,7 +24,7 @@ Identify root causes and propose data-driven solutions.
 
 ## Full Presentation
 
-[Executive presentation (PDF)] https://github.com/gcabral13/amazon-logistics-analysis/blob/main/presentation/amazon_logistics_eng.pdf
+[Executive presentation (PDF)](https://github.com/gcabral13/amazon-logistics-analysis/blob/main/presentation/amazon_logistics_eng.pdf)
 
 ## Dashboard Preview
 <img width="1280" height="725" alt="Dashboard Final" src="https://github.com/user-attachments/assets/544522d9-c1bd-4ca4-ba29-d28fbb125a90" />
